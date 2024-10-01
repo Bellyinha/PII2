@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.book {
+  
+  margin: 30px;
+}
+
+.book ul li {
+    color: #b88c8d;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: #babebf;
+}
+
+.divbo {
+  width: 12vw;
+  height: 18vw;
+}
+
+/* 
+#f7f6e9 - dourado
+#0f1f2f - azul
+#cacbc5 - cinza
+#f7f6e9 - bege
+#1e3957 - azul
+ */
