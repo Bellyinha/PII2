@@ -23,16 +23,16 @@ img {
 
 /* Define o tamanho da barra de rolagem */
 ::-webkit-scrollbar {
-  width: 15px;
+  width: 10px;
 }
 
 /* Define a cor e arredondamento da "thumb" (parte que se move) */
 ::-webkit-scrollbar-thumb {
-  background-color: #b88c8d;
-  /* border-radius: 10px; */
+  background-color: #cc922f;
+  border-radius: 10px;
 }
 
 /* Define o estilo do "track" (fundo da barra de rolagem) */
 ::-webkit-scrollbar-track {
-  background-color: #f1e3e2;
+  background-color: #f7f6e9;
 }

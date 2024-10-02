@@ -8,7 +8,7 @@
   flex-wrap: wrap;
   gap: 10px 20px;
   align-items: center;
-  background-color: #869ea3;
+  background-color: #1e3957;
 }
 
 .image {
@@ -39,7 +39,7 @@
   display: block;
   position: absolute;
   bottom: 0px;
-  background: #fff;
+  background: #cc922f;
   width: 0%;
   height: 1px;
   transition: 0.3s;

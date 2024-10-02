@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.profile {
+  width: 800px;
+  height: 1100px;
+  background-color: #f7f6e9;
+  border-radius: 50px;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.user picture {
+  margin-top: 50px;
+  width: 200px;
+  height: 200px;
+}
+
+.user p {
+  color: #cc922f;
+  font-size: 35px;
+}
+
+.list-bio {
+  display: flex;
+  margin-top: 80px;
+  margin-left: 80px;
+  font-size: 20px;
+  color: #cc922f;
+}
+
+.possession-books {
+  display: flex;
+  margin-top: 50px;
+  margin-left: 80px;
+  color: #cc922f;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.historic-books {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  margin-left: 80px;
+  color: #cc922f;
+  max-width: 650px;
+}
+
+.hi-books {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  padding: 10px 0;
+  gap: 35px;
+}
+
+.divimg img {
+  width: 100px;
+  height: 145px;
+  border-radius: 10px;
+}
+
+.hi-books::-webkit-scrollbar {
+  height: 8px;
+}
+
+.hi-books::-webkit-scrollbar-thumb {
+  background: #cc922f;
+  border-radius: 10px;
+}
+
+.hi-books::-webkit-scrollbar-track {
+  background: #e6e5d9;
+}
+
+/* 
+#cc922f - dourado
+#0f1f2f - azul
+#cacbc5 - cinza
+#f7f6e9 - bege
+#1e3957 - azul
+ */

@@ -6,7 +6,7 @@ const Header = () => {
     <header>
       <div className="header center">
         <picture className="image">
-          <img src="./assets/logo2.png"></img>
+          <img src="./assets/logo2.png" alt="logo"></img>
         </picture>
 
         <nav>
@@ -24,7 +24,11 @@ const Header = () => {
         </nav>
 
         <picture className="perfil">
-          <img src="./assets/perfil4.png"></img>
+          <img
+            src="./assets/perfil4.png"
+            alt="foto"
+            href="./Perfil/index.js"
+          ></img>
         </picture>
       </div>
     </header>

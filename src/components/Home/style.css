@@ -4,12 +4,11 @@
 }
 
 .book {
-  
   margin: 30px;
 }
 
 .book ul li {
-    color: #b88c8d;
+    color: #0f1f2f;
 }
 
 section {
@@ -17,7 +16,7 @@ section {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  background-color: #babebf;
+  background-color: #ebd4ae;
 }
 
 .divbo {
@@ -25,8 +24,12 @@ section {
   height: 18vw;
 }
 
+.divbo img {
+  border-radius: 10px;
+}
+
 /* 
-#f7f6e9 - dourado
+#cc922f - dourado
 #0f1f2f - azul
 #cacbc5 - cinza
 #f7f6e9 - bege
