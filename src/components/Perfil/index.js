@@ -13,9 +13,9 @@ const Perfil = () => {
           </div>
           <div className="list-bio">
             <ul>
-              <li>Nome</li>
-              <li>Data de nascimento</li>
-              <li>Preferências</li>
+              <li>Nome:</li>
+              <li>Data de nascimento:</li>
+              <li>Preferências:</li>
               <li>Posse de livros: 0/5</li>
             </ul>
           </div>

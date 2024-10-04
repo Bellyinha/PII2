@@ -20,9 +20,6 @@ model User {
   userName      String    @unique
   cpf           Int       @unique
   rg            Int
-  data_rg       DateTime  @db.Date
-  expedidor_rg  Int
-  email         String?
+  email         String
   password      String
-  phone         String?
 }

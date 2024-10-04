@@ -1,12 +1,13 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .profile {
   width: 800px;
   height: 1100px;
-  background-color: #f7f6e9;
+  background-color: #e4e3d6;
   border-radius: 50px;
 }
 
@@ -79,7 +80,7 @@
 }
 
 .hi-books::-webkit-scrollbar-track {
-  background: #e6e5d9;
+  background: #dbdacf;
 }
 
 /* 
